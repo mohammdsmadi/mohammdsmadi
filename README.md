@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammd Smadi
 - 👀 I’m interested in Frontend and backend stuff 
-- 🌱 I’m currently learning ruby & ruby on rails
 - 📫 How to reach me mhammdsmadi@gmail.com
 
 <!---
